@@ -1,1 +1,1 @@
-print("Salom, bu mening AI bot loyiham 🚀")
+print("Salom, mening AI bot loyihamga xush kelibiz! ")
